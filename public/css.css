@@ -1,0 +1,10 @@
+ul {
+    width: fit-content;
+}
+
+ul li {
+    display: flex;
+    justify-content: space-between;
+    min-height: 5vh;
+    align-items: center;
+}
