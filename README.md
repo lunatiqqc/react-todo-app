@@ -1,3 +1,9 @@
+School assignment: Very basic todo app
+
+
+how to run can be found below:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
